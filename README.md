@@ -1,2 +1,3 @@
 # starter
 Starting packet
+I'm new here and I'm trying to do something here, using manual...
